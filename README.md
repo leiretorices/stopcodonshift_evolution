@@ -8,7 +8,7 @@ This repository contains a collection of R files that aim to investigate the imp
 
 This repository includes the following files:
 
-**ortholog_analysis.R**: This script is responsible for performing ortholog analysis of an output file supplied by OrthoFinder (Emms and Kelly, 2019). It identifies orthologous genes and extracts information on protein length for further analysis.
+**ortholog_analysis.R**: This script is performs ortholog analysis of an output file supplied by OrthoFinder (Emms and Kelly, 2019). It identifies orthologous genes and extracts information on protein length for further analysis.
 
 **ancestral_reconstruction.R**: This script focuses on ancestral reconstruction analysis. It utilizes the obtained orthologous gene data to infer ancestral states of protein length using ape package (Analyses of Phylogenetics and Evolution).
 
